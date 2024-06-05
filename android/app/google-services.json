@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1086445183603",
+    "project_id": "two-a-app",
+    "storage_bucket": "two-a-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086445183603:android:389bdc6eecc95e67874006",
+        "android_client_info": {
+          "package_name": "com.example.two_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086445183603-umc4bimfmhlfvrtk58b7vrk75mt64u41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVDqETT_IKjVPjeOm8Sc5E92NAz_o14k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086445183603-umc4bimfmhlfvrtk58b7vrk75mt64u41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086445183603-em65vcm77smt8f4qnqdkuk7jlvf2jhlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twoa.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086445183603:android:c963c8de58a7a70f874006",
+        "android_client_info": {
+          "package_name": "com.mahanaim.android.two_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086445183603-umc4bimfmhlfvrtk58b7vrk75mt64u41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLVDqETT_IKjVPjeOm8Sc5E92NAz_o14k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086445183603-umc4bimfmhlfvrtk58b7vrk75mt64u41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086445183603-em65vcm77smt8f4qnqdkuk7jlvf2jhlq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twoa.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
